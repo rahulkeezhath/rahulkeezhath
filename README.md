@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack project<br>👯 I’m looking to collaborate on a  MERN project<br>🌱 I’m currently learning Typescript<br>💬 Ask me about  React.js, Node.js, MongoDB<br>⚡ Fun fact I love to Code
+🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate on a  MERN Project<br>🌱 I’m currently learning Typescript<br>💬 Ask me about  React.js, Node.js, MongoDB<br>⚡ Fun fact I love to Code
 
 
 ## 🌐 Socials:
